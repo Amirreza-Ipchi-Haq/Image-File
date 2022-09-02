@@ -4,4 +4,6 @@ These programs create & read the .image file format. But what's .image? .image i
 2. The color of each pixel in order
 You can create your own files using notepad or the image creator.
 
+You can use the Example.image to see how it works
+
 (***Image File Convertor*** coming soon)
