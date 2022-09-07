@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662097524 source:e:\codeblocks projects\c++\image file programs\image file creator\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<cmath>
+	<windows.h>
+
